@@ -1,3 +1,5 @@
+> **I don't use Chrome or VIZ anymore, so this script will not be maintained**
+
 # VIZMangaControls
 *Keyboard shortcuts / hotkeys for VIZ.com's manga reader (regular manga & Shounen Jump)*
 
